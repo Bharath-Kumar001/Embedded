@@ -1,4 +1,4 @@
 {
   "version": "4.0",
-  "bin_url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/1013713041/0787ef12-c6f8-4cd0-94ec-67e8e123156c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250707%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250707T060738Z&X-Amz-Expires=1800&X-Amz-Signature=fdf60cdf94e11f5ad38f8e147dee4bcc8d88a5908ceb831c8baee1f8b0a1049b&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dsketch_jul4a.ino.bin&response-content-type=application%2Foctet-stream"
+  "bin_url": "https://raw.githubusercontent.com/Bharath-Kumar001/Embedded/main/firmware.bin"
 }
